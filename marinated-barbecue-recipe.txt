@@ -1,0 +1,13 @@
+Ingredients:
+ - Sugar: number of sugar spoons equals with number of kilogram meats.
+ - Milk: equals with 2/3 sugar.
+ - MSG: number of MSG spoons equals with 1/2 number of kilogram meats.
+ - Salt: equals with 1/5 MSG.
+ - Fish sauce: equals with 1/2 MSG.
+ - Annatto seed oil: equals with MSG.
+ - Citronella: a little.
+ - Onion, garlic, chili finely chopped: depend on your favour.
+
+Directions:
+  1. Mix all ingredients and wait for 2-3 hours.
+  2. Roast.
